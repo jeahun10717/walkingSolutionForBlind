@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC     -shared -Wl,-soname,libcyglidar_d1.so -o /home/jetson4/cyglidar_ws/devel/lib/libcyglidar_d1.so CMakeFiles/cyglidar_d1.dir/sdk/src/cygparser.c.o 

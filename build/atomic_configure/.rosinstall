@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jetson4/cyglidar_ws/devel/setup.sh

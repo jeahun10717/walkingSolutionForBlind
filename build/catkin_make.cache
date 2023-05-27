@@ -1,0 +1,2 @@
+cyglidar_d1
+-DCATKIN_DEVEL_PREFIX=/home/jetson4/cyglidar_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jetson4/cyglidar_ws/install -G Unix Makefiles

@@ -1,0 +1,1 @@
+/usr/bin/c++       -rdynamic CMakeFiles/cygSub.dir/src/sub1.cpp.o  -o /home/jetson4/cyglidar_ws/devel/lib/cyglidar_d1/cygSub 
