@@ -57,7 +57,8 @@ add_executable(sub src/sub1.cpp ${CYGLIDAR_D_SRC})
 target_link_libraries(sub
     ${PROJECT_NAME}
     ${catkin_LIBRARIES}
-    ${PCL_LIBRARIES})
+    ${PCL_LIBRARIES}
+    asound)
 add_dependencies(sub ${PROJECT_NAME}_generate_messages_cpp)
 install(TARGETS sub
     ARCHIVE DESTINATION ${CATKIN_PACKAGE_LIB_DESTINATION}
